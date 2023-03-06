@@ -19,7 +19,7 @@
         </activity>
         <activity android:name=".CallJavascriptActivity" />
         <activity android:name=".JavascriptCallNativeActivity" />
-        <activity android:name=".WrokWithFlyioTestActivity"></activity>
+        <activity android:name=".WrokWithFlyioTestActivity" />
     </application>
 
 </manifest>
